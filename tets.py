@@ -1,1 +1,1 @@
-print("tangina mo xel")
+print("tangina mo xel 1")
