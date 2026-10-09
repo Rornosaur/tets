@@ -1,1 +1,1 @@
-print("tangina mo xel 1")
+print("tangina mo xel, tang ina mo kurt")
