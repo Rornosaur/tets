@@ -1,1 +1,1 @@
-print("hello")
+print("tangina mo xel")
